@@ -1,0 +1,16 @@
+{
+    "mizban":"Mizban",
+    "setting":"Setting",
+    "language":"Language",
+    "confirm":"Confirm",
+    "cancel":"Cancel",
+    "appearance": "Appearance",
+    "languages":{
+        "en":"English",
+        "fa":"Farsi"
+    },
+    "brightness":{
+        "dark":"Dark",
+        "light": "Light"
+    }
+}

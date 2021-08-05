@@ -1,0 +1,16 @@
+{
+    "mizban":"میزبان",
+    "setting":"تنظیمات",
+    "language":"زبان",
+    "confirm":"تأیید",
+    "cancel":"لغو",
+    "appearance": "حالت نمایش",
+    "languages":{
+        "en":"انگلیسی",
+        "fa":"فارسی"
+    },
+    "brightness":{
+        "dark":"تاریک",
+        "light": "روشن"
+    }
+}
